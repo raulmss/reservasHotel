@@ -6,6 +6,7 @@ import java.util.Date;
 import javax.persistence.*;
 
 /**
+ * @author Raul Souto
  * Entity implementation class for Entity: Diaria
  *
  */
